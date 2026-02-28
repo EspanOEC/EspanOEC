@@ -33,3 +33,9 @@ I'm interested in web development and games. Also, I hate JavaScript💀
    <img src="https://github-readme-stats.vercel.app/api?username=BaggerFast&count_private=true&show_icons=true&theme=dracula&hide_border=true&bg_color=00000000" />
   </p>
 </details> -->
+
+<!-- Полезные сайты для украшения профиля:
+    https://skillicons.dev/icons?i={Name_of_Tool / Lang / Framework / Lib} (иконки языков и т.д.)
+    https://shields.io/ (плашки с возможностью кастомизировать)
+--> 
+    
